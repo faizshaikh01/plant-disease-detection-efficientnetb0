@@ -308,3 +308,10 @@ The class folders must be directly inside `data/plantvillage`, not inside anothe
 ## Disclaimer
 
 This application is an educational research prototype. Its predictions should not replace professional agricultural diagnosis or treatment advice.
+
+## Author
+
+**MD Faiz**
+
+- GitHub: [@faizshaikh01](https://github.com/faizshaikh01)
+- Repository: [plant-disease-detection-efficientnetb0](https://github.com/faizshaikh01/plant-disease-detection-efficientnetb0)
